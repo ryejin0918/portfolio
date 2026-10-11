@@ -7,6 +7,7 @@ AI / Data Engineer
 ## Portfolio
 
 프로젝트별 문제 정의, 데이터 처리 구조, AI 서비스 구현 및 운영 경험을 정리한 포트폴리오입니다.
+
 [포트폴리오 PDF 보기](./Ahn_Ryejin_Portfolio.pdf)
 
 ## Core Areas
