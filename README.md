@@ -6,6 +6,7 @@ AI / Data Engineer
 
 ## Portfolio
 
+프로젝트별 문제 정의, 데이터 처리 구조, AI 서비스 구현 및 운영 경험을 정리한 포트폴리오입니다.
 [포트폴리오 PDF 보기](./Ahn_Ryejin_Portfolio.pdf)
 
 ## Core Areas
@@ -21,6 +22,6 @@ AI / Data Engineer
 
 - 사내 리서치 지식 구축 및 AI 데이터 서비스 개발
 - 비정형 STT 데이터 기반 AI 품질평가 시스템 개발
-- 금융 문서 기반 지식 검색 및 AI 리스크 평가 서비스
+- 금융 문서 기반 지식 검색 및 AI 리스크 평가 서비스 개발
 - 금융 데이터 기반 AI 학습 서비스 개발 및 운영
 - 글로벌 뷰티 데이터 분석 및 AI Agent 플랫폼 개발
